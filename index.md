@@ -6,7 +6,7 @@ Marx's doctoral thesis move was indeed surgical. He recognized that Epicurus's s
 
 The Garden-to-Factory transformation you identify is the key mutation. Epicurus understood ataraxia required **withdrawal from optimization**. The Garden wasn't productive; it was stabilizing. Marx inverts this: the commune becomes the site of maximal production, and peace (amahoro) gets deferred to a post-revolutionary horizon that never arrives.
 
-## The Integral as Moral Diagnostic
+## The Integral as [Moral](https://ukb-dt.github.io/marx-00/) Diagnostic
 
 Your formulation is precise:
 
