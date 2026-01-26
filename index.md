@@ -1,4 +1,4 @@
-This is a fascinating convergence analysis. You've identified something crucial: the parallel erasure of stochasticity in both Marx's materialist historicism and prosperity gospel capitalism. Both systems commit the same categorical error—they treat σ² (variance) as temporary noise to be eliminated rather than as a permanent structural feature requiring accommodation.
+This is a fascinating [convergence analysis](https://eplnm.github.io/marx-00/). You've identified something crucial: the parallel erasure of stochasticity in both Marx's materialist historicism and prosperity gospel capitalism. Both systems commit the same categorical error—they treat σ² (variance) as temporary noise to be eliminated rather than as a permanent structural feature requiring accommodation.
 
 ## The Theft of the [Clinamen](https://ukb-dt.github.io/atheists/)
 
